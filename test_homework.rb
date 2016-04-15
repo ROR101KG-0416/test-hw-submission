@@ -3,6 +3,8 @@ puts (3 *5)
 
 # Use a string method to print out the length of your name
 my_name = "sam"
-puts sam.length
+puts my_name.length
 
 # Yet another update
+
+puts "yay homework"
